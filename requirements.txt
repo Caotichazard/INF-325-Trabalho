@@ -1,2 +1,2 @@
 pymongo>=4.8.0
-pprint>=8.11.0
+pprintpp>=8.11.0
